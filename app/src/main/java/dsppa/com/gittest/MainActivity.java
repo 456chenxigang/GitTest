@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 //11
         setContentView(R.layout.activity_main);
 
+
         findViewById(R.id.tv);
     }
 }
